@@ -1,6 +1,5 @@
 # WireGuard Config Generator
 
-https://argh94.github.io/wireguard-config-generator/
 
 
 
