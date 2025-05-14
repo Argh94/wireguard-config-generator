@@ -2,7 +2,7 @@
 
 
 
-
+![Visitor Count](https://komarev.com/ghpvc/?username=Argh94&repo=wireguard-config-generator&label=ProfileViews)
 ![WireGuard](https://img.shields.io/badge/WireGuard-Config%20Generator-blueviolet)  
 ابزاری ساده و سریع برای تولید کانفیگ‌های WireGuard، AmneziaVPN و v2rayNG برای استفاده در VPN و گیمینگ.
 
