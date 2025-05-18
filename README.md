@@ -6,6 +6,8 @@
 ![WireGuard](https://img.shields.io/badge/WireGuard-Config%20Generator-blueviolet)  
 ابزاری ساده و سریع برای تولید کانفیگ‌های WireGuard، AmneziaVPN و v2rayNG برای استفاده در VPN و گیمینگ.
 
+<div style="display: flex; justify-content: center; gap: 20px;"> <img src="https://raw.githubusercontent.com/Argh94/wireguard-config-generator/main/image/project-preview.jpg" alt="نمایی از پروژه ۱" width="45%"> <img src="https://raw.githubusercontent.com/Argh94/wireguard-config-generator/main/image/project-preview2.jpg" alt="نمایی از پروژه ۲" width="45%"> </div>
+
 ## 🌐 دسترسی به ابزار
 برای استفاده از این ابزار، به لینک زیر مراجعه کنید:  
 👉 [WireGuard Config Generator](https://argh94.github.io/wireguard-config-generator/)
